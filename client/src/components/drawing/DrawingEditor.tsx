@@ -60,7 +60,7 @@ function ReachEditor() {
 
     useEffect(() => {
         // Load the drawing data from the context
-        if (drawingData && Object.keys(drawingData).length > 0) {
+        if (drawingData) {
             loadSnapshot(editor.store, drawingData)
         }
     }, [])
