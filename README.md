@@ -94,7 +94,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/codeit.git
+git clone https://github.com/Harshitsoni294/CodeIT.git
 cd codeit
 ```
 
@@ -296,71 +296,3 @@ Contributions are welcome! Here's how you can help:
 - Update documentation as needed
 - Ensure all tests pass before submitting
 
----
-
-## 🐛 Known Issues
-
-- Large files (>1MB) are not loaded for performance reasons
-- Some browsers may require HTTPS for clipboard operations
-- WebSocket connection may timeout on slow networks
-
----
-
-## 🔮 Roadmap
-
-- [ ] **Admin Permissions** - Role-based access control
-- [ ] **Version History** - Track code changes over time
-- [ ] **Code Review** - Built-in review workflow
-- [ ] **Video Chat** - Integrate video communication
-- [ ] **GitHub Integration** - Direct repository sync
-- [ ] **Mobile App** - Native iOS and Android apps
-- [ ] **Plugin System** - Extensible architecture
-- [ ] **Offline Mode** - Work without internet
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to the following projects and services:
-
-- **[Hugging Face](https://huggingface.co/)** - AI model inference
-- **[Piston](https://github.com/engineer-man/piston)** - Code execution engine
-- **[tldraw](https://github.com/tldraw/tldraw)** - Collaborative whiteboard
-- **[Socket.IO](https://socket.io/)** - Real-time communication
-- **[CodeMirror](https://codemirror.net/)** - Code editor component
-- **[Tailwind CSS](https://tailwindcss.com/)** - Styling framework
-
----
-
-## 📞 Support
-
-Need help? Here's how to get support:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/codeit/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/codeit/discussions)
-- **Email**: support@codeit.dev
-
----
-
-## 📊 Statistics
-
-- **Languages**: 100+ supported
-- **Themes**: 20+ available
-- **Active Rooms**: Unlimited
-- **Max Users/Room**: Unlimited
-- **File Size Limit**: 1MB per file
-
----
-
-<div align="center">
-  <p>Made with ❤️ by the CodeIT Team</p>
-  <p>
-    <a href="#codeit">Back to Top ↑</a>
-  </p>
-</div>
