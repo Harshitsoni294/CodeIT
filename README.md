@@ -1,5 +1,6 @@
 # CodeIT
 zaSyAd_MfgMX5QCz_PdEnFWyAA5vTnoQh6gec
+cLGVNcRpgdEmGudzcdzuWGdyb3FY5h9YgI9fEBLzhagahf7H2Drf
 <div align="center">
   <h3>Real-time Collaborative Code Editor</h3>
   <p>A premium, minimalistic platform for seamless code collaboration with AI assistance</p>
